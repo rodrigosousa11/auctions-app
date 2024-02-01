@@ -1,6 +1,6 @@
 # Django Auctions Project
 
-This is a web application developed using Django for online auctions. Users can create listings, place bids, add items to their watchlist, comment, and participate in the auction process.
+This is a web application developed using Django for online auctions. Users can create listings, place bids, add items to their watchlist, comment, and participate in the auction process. This was the Project 2 of the CS50W course.
 
 ## Features
 
@@ -13,11 +13,11 @@ This is a web application developed using Django for online auctions. Users can 
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.11.4
 - Django 5.0.1
-- HTML, CSS, JavaScript
-- Bootstrap (optional, if used for styling)
-- SQLite (default database)
+- HTML, CSS
+- Bootstrap
+- SQLite
 
 ## Setup
 
