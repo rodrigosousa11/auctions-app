@@ -26,7 +26,7 @@ This is a web application developed using Django for online auctions. Users can 
    ```bash
    git clone https://github.com/your-username/your-repo.git
    ```
-2. Aply database migrations:
+2. Apply database migrations:
 
    ```bash
     python manage.py migrate
